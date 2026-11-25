@@ -1,0 +1,6 @@
+VAA FlowVision — Single Camera Zone Analytics
+Phiên bản: 7.0 (thiết kế lại từ V6 CrowdFlow)
+Đầu vào: 1 video từ camera cố định
+Đầu ra: CSV từng khung/từng phút/từng khu, báo cáo HTML/JSON, ảnh minh chứng, MP4 tùy chọn
+Model: yolo11n.pt pretrained (kế thừa từ gói V6)
+Chưa kiểm nghiệm độ chính xác YOLO trên video thực của địa điểm người dùng.
